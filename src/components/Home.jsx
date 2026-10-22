@@ -5,7 +5,7 @@ import { useTypewriter, Cursor } from "react-simple-typewriter";
 
 const Home = ({ isDark }) => {
   const [text] = useTypewriter({
-    words: ["Software Engineer", "Full Stack Web Developer"],
+    words: ["Aspiring Software Engineer", "Aspiring Full Stack Developer"],
     loop: true,
   });
 
@@ -40,7 +40,7 @@ const Home = ({ isDark }) => {
 
             <div>
               <a
-                href="https://drive.google.com/file/d/10o6mW0s49YqfdddYQriRVvruhRDmRwJU/view?usp=drivesdk"
+                href="https://drive.google.com/file/d/1QTI1fiGFL-7ojeFYCx0Tc3_zlZe69QtZ/view?usp=drive_link"
                 className="group text-white w-fit px-6 py-3 my-2 flex items-center rounded-md bg-gradient-to-r from-cyan-500 to-blue-800 cursor-pointer"
               >
                 Download CV{" "}

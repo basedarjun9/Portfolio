@@ -35,7 +35,7 @@ const Contact = ({ isDark }) => {
               <MdEmail className="text-blue-500 text-4xl mr-4" />
               <div>
                 <h2 className="text-xl font-semibold text-white">Email</h2>
-                <p className="text-gray-300">kit26.24mmc007@gmail.com</p>
+                <p className="text-gray-300">arjunmoorthy2026@gmail.com</p>
               </div>
             </div>
 
@@ -54,7 +54,7 @@ const Contact = ({ isDark }) => {
               <div>
                 <h2 className="text-xl font-semibold text-white">Address</h2>
                 <p className="text-gray-300">
-                  7/30,North Street,Ilaiyarasanendal.
+                  Coimbatore,Tamil Nadu
                 </p>
               </div>
             </div>
@@ -97,7 +97,7 @@ const Contact = ({ isDark }) => {
               : "bg-blue-400 text-gray-700 "
           }`}
         >
-          <p className="text-sm">© 2025 Arjun. All Rights Reserved.</p>
+          <p className="text-sm">© 2026 Arjun. All Rights Reserved.</p>
         </footer>
       </section>
     </>

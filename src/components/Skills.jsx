@@ -58,6 +58,12 @@ const Skills = ({ isDark }) => {
     {
       id: 8,
       src: MongoDB,
+      title: "Mongo DB",
+      style: "shadow-pink-400",
+    },
+    {
+      id: 8,
+      src: MongoDB,
       title: "SQL",
       style: "shadow-pink-400",
     },

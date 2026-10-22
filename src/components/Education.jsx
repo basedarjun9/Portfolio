@@ -3,7 +3,8 @@ import React from "react";
 import stpauls from "../assets/stpauls.jpeg";
 import kalai from "../assets/kalai.png";
 import clg from "../assets/clg.png";
-import wizInoaImg from "../assets/ats logo.jpeg";
+import image from "../assets/clg.png";
+
 
 const Education = ({ isDark }) => {
   return (
@@ -70,11 +71,11 @@ const Education = ({ isDark }) => {
 
         {/* Fourth Education Block */}
         <div className="container right-container">
-          <img src={wizInoaImg} alt="Wiz Inoa Internship" />
+          <img src={image} alt="Kalaignar karunanidhi" />
           <div className="text-box">
-            <h2>Intern At Accent Techno Soft  </h2>
-            <small className="text-blue-700">2024</small>
-            <p>I am currently doing a React internship in ATS.</p>
+            <h2>Master of Computer Applications  </h2>
+            <small className="text-blue-700">2024-2026</small>
+            <p>KIT-Kalaignar karunanidhi Institute of technology.</p>
             <span className="right-container-arrow"></span>
           </div>
         </div>
